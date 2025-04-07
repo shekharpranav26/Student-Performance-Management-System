@@ -1,0 +1,18 @@
+/* src/components/Welcome.css */
+.welcome-container {
+    padding: 100px;
+    background-color: #f0f2f5; /* Light gray background for the whole page */
+}
+
+.welcome-message {
+    margin-bottom: 25px;
+    text-align: center; /* Center the welcome message */
+}
+
+.dashboard-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #d9d2d2; /* White background for the dashboard */
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}

@@ -1,0 +1,22 @@
+/* src/components/ShowResults.css */
+.show-results-container {
+    padding: 20px;
+    background-color: #ffffff; /* White background for the container */
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.results-list {
+    margin-top: 20px;
+}
+
+.result-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #e0e0e0; /* Light border around each student's results */
+    border-radius: 4px;
+}
+
+.result-item h3 {
+    margin: 0;
+}
